@@ -1142,7 +1142,7 @@ span.flatpickr-weekday {
   border: none;
   cursor: pointer;
   text-align: left;
-  font-size: 16px;;
+  font-size: 15px;
   -webkit-transition: all .15s;
   transition: all .15s
 }
@@ -2303,7 +2303,7 @@ p a {
   height: 200px;
   width: 300px;
   text-align: center;
-  font-size: 16px;;
+  font-size: 15px;
   color: #fff
 }
 

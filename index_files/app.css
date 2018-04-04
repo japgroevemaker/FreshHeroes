@@ -1142,7 +1142,7 @@ span.flatpickr-weekday {
   border: none;
   cursor: pointer;
   text-align: left;
-  font-size: 15px;
+  font-size: 16px;;
   -webkit-transition: all .15s;
   transition: all .15s
 }
@@ -2303,7 +2303,7 @@ p a {
   height: 200px;
   width: 300px;
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;;
   color: #fff
 }
 
@@ -5069,8 +5069,8 @@ body {
 
 .ss-fielditem .ss-fielditem__indicator {
   position: absolute;
-  top: 2px;
-  right: 2px;
+  top: 20px;
+  right: 15px;
   border: 1px solid #bfbfbf;
   height: 16px;
   width: 16px;

@@ -937,6 +937,10 @@ span.flatpickr-weekday {
   width: 100%;
   border-style: none;
   resize: none;
+<<<<<<< HEAD
+=======
+  outline: none;
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
   overflow: auto
 }
 
@@ -1267,6 +1271,10 @@ span.flatpickr-weekday {
 }
 
 .trumbowyg-modal-box label input:focus, .trumbowyg-modal-box label input:hover {
+<<<<<<< HEAD
+=======
+  outline: none;
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
   border: 1px solid #95a5a6
 }
 
@@ -1295,7 +1303,11 @@ span.flatpickr-weekday {
   border: none;
   cursor: pointer;
   font-family: Trebuchet MS, Helvetica, Verdana, sans-serif;
+<<<<<<< HEAD
   font-size: 16px;
+=======
+  ;
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
   -webkit-transition: all .15s;
   transition: all .15s
 }
@@ -1307,6 +1319,10 @@ span.flatpickr-weekday {
 
 .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-submit:focus, .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-submit:hover {
   background: #40d47e;
+<<<<<<< HEAD
+=======
+  outline: none
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
 }
 
 .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-submit:active {
@@ -1320,6 +1336,10 @@ span.flatpickr-weekday {
 
 .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-reset:focus, .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-reset:hover {
   background: #fbfbfb;
+<<<<<<< HEAD
+=======
+  outline: none
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
 }
 
 .trumbowyg-modal-box .trumbowyg-modal-button.trumbowyg-modal-reset:active {
@@ -2983,7 +3003,11 @@ body {
 
 @media screen and (max-width:500px) {
   .ss-button--account-activated {
+<<<<<<< HEAD
     font-size: 16px;
+=======
+    font-size: 13px
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
   }
 }
 
@@ -8967,7 +8991,11 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .trumbowyg-button-pane button.trumbowyg-active, .trumbowyg-button-pane button:not(.trumbowyg-disable):focus, .trumbowyg-button-pane button:not(.trumbowyg-disable):hover {
   background-color: inherit;
+<<<<<<< HEAD
 
+=======
+  outline: none
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
 }
 
 .ss-label {
@@ -10015,7 +10043,11 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   .ss-admin--vacancies__button-container .ss-button {
     padding-left: 6px;
     padding-right: 6px;
+<<<<<<< HEAD
     font-size: 16px;;
+=======
+    font-size: 13px;
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
     height: 40px;
     padding-top: 13px
   }
@@ -12626,6 +12658,10 @@ input[type=checkbox]:checked+.ss-checkbox:after {
   border-radius: 20px;
   border: 1px solid #6c23b0;
   background: #fff;
+<<<<<<< HEAD
+=======
+  outline: none;
+>>>>>>> 3004ad7769f4c785d17107dc2eebb6b5a79626b4
   cursor: pointer;
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .34);
   box-shadow: 0 1px 3px rgba(0, 0, 0, .34)
